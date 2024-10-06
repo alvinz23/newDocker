@@ -1,0 +1,24 @@
+"Agile" section 
+
+User Stories: 
+1. As a vanilla git power-user that has never seen GiggleGit before, I want to easily navigate and understand the interface,
+and use the features of GiggleGit without having to read a bunch of documentation and watching tutorials.
+
+2. As a team lead onboarding an experienced GiggleGit user, I want a easy onboarding process with clear steps and instructions
+so that my members can be efficiently trained and can start using GiggleGit withoutb having to spend a lot of time learning it.
+
+3. As a user, I want to customize the types of memes shown during my time using GiggleGit
+ I want to be able to tailor GiggleGit to my style of humor. 
+ Associated ticket 1:
+ - Create meme category options :  Design a set of meme categories and allow users to select their
+  preferences in the settings and implement the proper front end to support this functionality.
+ - Develop Logic for Meme Selection : Implement backend functionality to ensure that selected meme categories 
+ are shown to users during their GiggleGit interactions and that their choices are accurately represented in the program.
+
+4. This statement is not a user story since the statement lacks a reason for why the user wants this feature and what their
+ ultimate goal is with that feature, a user story should explain why the user wants this
+ functionality to demonstrate the value. 
+ A better user story might be: As a user, I want to authenticate my account on new devices so I can 
+ continue to work on my projects wherever I want and access the same style of memes I have across all devices. 
+
+ 
