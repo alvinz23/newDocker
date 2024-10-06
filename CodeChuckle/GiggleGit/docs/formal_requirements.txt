@@ -1,0 +1,43 @@
+#Snicker sync part, formal requirements 
+
+#Goal and non-goal requirements 
+Goal - Allow users to sync their merges with humorous feedback in the form of meme sounds (snickering) 
+to make the merging process more enjoyable.
+
+Non-goal - The tool will not inherently handle or resolve merge conflicts by itself, 
+it will only provide meme-based feedback during the syncing process.
+
+#Non-functional/functional requirements 
+
+#non-functional 1
+Efficiency - Snickersync should provide meme-based feedback quickly and do so without lagging or slowing down 
+or hindering the process of merging. 
+
+#non-functional 2 
+Access control -  Only authorized users should be able to access and configure the SnickerSync settings to
+make sure that only certain people can manage the snickering options.
+
+
+#four functional requirements
+Functional Requirement 1: Implement role-based authentication to restrict access to SnickerSync settings,
+ allowing only developers and PMs to view and modify configurations.
+
+
+Functional Requirement 2: Maintain an access log that tracks every change made to SnickerSync settings, 
+recording the user, action taken, and timestamp for auditing purposes.
+
+
+Functional Requirement 3: Implement a progress bar that shows the percentage of completion during the sync process 
+with even more memes displaying and sound effects as it loads. 
+
+Functional Requirement 4: The merging happens, and at the same time, the memes are displayed without causing
+ any delay or lag in the merging process.
+
+
+
+
+
+
+
+
+
